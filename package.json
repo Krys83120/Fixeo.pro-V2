@@ -1,0 +1,9 @@
+{
+  "name": "mon-app",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  }
+}
