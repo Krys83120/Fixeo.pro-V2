@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: mon-app-spring
+    name: mon-app
     env: java
     plan: free
     buildCommand: ./mvnw clean install
